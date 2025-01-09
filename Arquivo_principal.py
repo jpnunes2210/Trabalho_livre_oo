@@ -93,7 +93,17 @@ veiculos_disponiveis = [
     Sedan("Corolla", "Toyota", 2019, 140),
     SUV("Renegade", "Jeep", 2021, 180, tracao_4x4=True),
     Veiculo("HB20", "Hyundai", 2018, "Hatch", 120),
-    SUV("Creta", "Hyundai", 2022, 200, tracao_4x4=False)  # Agora estamos criando instâncias de SUV, que esperam o parâmetro tracao_4x4
+    SUV("Creta", "Hyundai", 2022, 200, tracao_4x4=False),  # Agora estamos criando instâncias de SUV, que esperam o parâmetro tracao_4x4
+    Sedan("Accord", "Honda", 2021, 160),
+    Sedan("Fusion", "Ford", 2018, 145),
+    SUV("Compass", "Jeep", 2020, 190, tracao_4x4=True),
+    SUV("Evoque", "Land Rover", 2022, 250, tracao_4x4=True),
+    Veiculo("Onix", "Chevrolet", 2021, "Hatch", 110),
+    Veiculo("Gol", "Volkswagen", 2019, "Hatch", 100),
+    SUV("Tucson", "Hyundai", 2019, 170, tracao_4x4=False),
+    SUV("Outlander", "Mitsubishi", 2021, 220, tracao_4x4=True),
+    Sedan("Passat", "Volkswagen", 2020, 150),
+    Veiculo("Kwid", "Renault", 2022, "Hatch", 95)
 ]
 
 # Função para o cliente escolher um critério de busca para o veículo

@@ -1,34 +1,66 @@
 [
-  {
-    "cliente": {
-      "nome": "joao",
-      "idade": 20,
-      "telefone": 61991658269,
-      "qtd_dias": 3
+    {
+        "cliente": {
+            "nome": "joao",
+            "idade": 20,
+            "telefone": 61991658269,
+            "qtd_dias": 3
+        },
+        "veiculo": {
+            "modelo": "HB20",
+            "marca": "Hyundai",
+            "ano": 2018,
+            "tipo": "Hatch",
+            "valor_diaria": 120,
+            "disponivel": true
+        }
     },
-    "veiculo": {
-      "modelo": "HB20",
-      "marca": "Hyundai",
-      "ano": 2018,
-      "tipo": "Hatch",
-      "valor_diaria": 120,
-      "disponivel": true
-    }
-  },
-  {
-    "cliente": {
-      "nome": "eduardo ",
-      "idade": 19,
-      "telefone": 78654321,
-      "qtd_dias": 5
+    {
+        "cliente": {
+            "nome": "eduardo ",
+            "idade": 19,
+            "telefone": 78654321,
+            "qtd_dias": 5
+        },
+        "veiculo": {
+            "modelo": "HB20",
+            "marca": "Hyundai",
+            "ano": 2018,
+            "tipo": "Hatch",
+            "valor_diaria": 120,
+            "disponivel": true
+        }
     },
-    "veiculo": {
-      "modelo": "HB20",
-      "marca": "Hyundai",
-      "ano": 2018,
-      "tipo": "Hatch",
-      "valor_diaria": 120,
-      "disponivel": true
+    {
+        "cliente": {
+            "nome": "Joao paulo ",
+            "idade": 20,
+            "telefone": 61991658269,
+            "qtd_dias": 3
+        },
+        "veiculo": {
+            "modelo": "Civic",
+            "marca": "Honda",
+            "ano": 2020,
+            "tipo": "Sedan",
+            "valor_diaria": 150,
+            "disponivel": true
+        }
+    },
+    {
+        "cliente": {
+            "nome": "Carlos",
+            "idade": 45,
+            "telefone": 987453210,
+            "qtd_dias": 31
+        },
+        "veiculo": {
+            "modelo": "Evoque",
+            "marca": "Land Rover",
+            "ano": 2022,
+            "tipo": "SUV",
+            "valor_diaria": 250,
+            "disponivel": true
+        }
     }
-  }
 ]
