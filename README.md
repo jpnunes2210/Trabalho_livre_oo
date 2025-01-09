@@ -4,5 +4,5 @@ Olá! Meu projeto se baseia em uma espécie de locadora de carros. Você digitar
 
 AGORA SIM, DESFRUTE DO CÓDIGO!!
 
-Nome do aluno: João Paulo Barbosa Pereira Nunes
+Nome do aluno: João Paulo Barbosa Pereira Nunes;
 Matrícula: 232003652
